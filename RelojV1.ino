@@ -10,8 +10,8 @@
 
 Adafruit_SSD1306 display(screen_width, screen_height, &Wire, -1); 
 
-const char* ssid     = "Doomslayer";
-const char* password = "Zelda58825613";
+const char* ssid     = "";
+const char* password = "";
 
 const long  gmtOffset_sec = -21600; 
 const int   daylightOffset_sec = 0; 
